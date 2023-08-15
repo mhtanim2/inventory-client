@@ -1,0 +1,1 @@
+export const BaseURL="https://inventory-server-wxxb.onrender.com/api/v1";
